@@ -1,3 +1,6 @@
 [submodule "mydia-backend"]
 	path = mydia-backend
 	url = https://github.com/ahosanul81/level-2-assignment-8-mydia-backend.git
+[submodule "mydia-front-end"]
+	path = mydia-front-end
+	url = https://github.com/ahosanul81/level-2-assignment-8-mydia-front-end.git
